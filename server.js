@@ -20,4 +20,4 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb: //localhost/Moore_Social_N
 
 mongoose.set('debug', true);
 
-app.listenerCount(PORT, () => console.log(`🌎 Connected on localhost:${PORT}`));
+app.listen(PORT, () => console.log(`🌎 Connected on localhost:${PORT}`));
