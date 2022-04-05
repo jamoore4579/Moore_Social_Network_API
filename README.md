@@ -6,7 +6,11 @@
   The Social Network API project is the back-end code for a social media platform. It has the routes and models for new users to share their thoughts and link up with friends. It also allows the user to provide reactions to their friends thoughts.
 
   ## Demonstration Video
+  # Users Routes
   View the link: [Screencastify] https://drive.google.com/file/d/12umc9B5mnX2pBDp-H6bPLWn88LLHts-J/view?usp=sharing
+
+  # Thoughts Routes
+  View the link: [Screencastify] https://drive.google.com/file/d/1ieOKhXK_jHe6llZVKjm2tsr9zcA-LQeZ/view?usp=sharing
 
   ## Table of Contents
   * [Installation](#installation)
