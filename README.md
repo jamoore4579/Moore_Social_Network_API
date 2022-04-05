@@ -10,9 +10,7 @@
   View the link: [Screencastify] https://drive.google.com/file/d/12umc9B5mnX2pBDp-H6bPLWn88LLHts-J/view?usp=sharing
 
   # Thoughts Routes
-  View the link: [Screencastify] https://drive.google.com/file/d/1ieOKhXK_jHe6llZVKjm2tsr9zcA-LQeZ/view?usp=sharing
-
-  https://drive.google.com/file/d/1V00LP9SuOFCzbCDoLDL66AkbZtjHX1bE/view?usp=sharing
+  View the link: [Screencastify] https://drive.google.com/file/d/1V00LP9SuOFCzbCDoLDL66AkbZtjHX1bE/view?usp=sharing
 
   ## Table of Contents
   * [Installation](#installation)
